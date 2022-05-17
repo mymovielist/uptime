@@ -17,6 +17,30 @@ sites:
     url: https://www.waf.hk
   - name: aatf
     url: https://www.aatf.us
+  - name: fawong
+    url: https://www.fawong.com
+  - name: xilef
+    url: https://www.xilef.org
+  - name: kirinas
+    url: https://www.kirinas.com
+  - name: faw.gg
+    url: https://www.faw.gg
+  - name: hlx.tw
+    url: https://www.hlx.tw
+  - name: oemc
+    url: https://www.orientelectronic.net
+  - name: waf.sexy
+    url: https://www.waf.sexy
+  - name: test
+    url: https://wildcard.waf.sexy
+  - name: waf hong kong
+    url: https://www.xn--i8s3q.xn--j6w193g
+  - name: kara
+    url: https://www.xn--lckwg.net
+  - name: gyx.io
+    url: https://www.gyx.io
+  - name: uhhh
+    url: https://thisworkswhy.gyx.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
