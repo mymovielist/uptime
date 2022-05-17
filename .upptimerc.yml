@@ -12,11 +12,11 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: leela
-    name: https://leela.waf.hk
+    url: https://leela.waf.hk
   - name: waf.hk
-    name: https://www.waf.hk
+    url: https://www.waf.hk
   - name: aatf
-    name: https://www.aatf.us
+    url: https://www.aatf.us
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
