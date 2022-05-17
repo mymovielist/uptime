@@ -3,14 +3,6 @@ owner: mymovielist # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: leela
     url: https://leela.waf.hk
   - name: waf.hk
@@ -41,6 +33,12 @@ sites:
     url: https://www.gyx.io
   - name: uhhh
     url: https://thisworkswhy.gyx.io
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
