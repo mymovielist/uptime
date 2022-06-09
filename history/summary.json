@@ -16,7 +16,7 @@
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-06-09": 1419,
+      "2022-06-09": 1434,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
@@ -101,19 +101,19 @@
     "url": "https://www.xilef.org",
     "icon": "https://favicons.githubusercontent.com/www.xilef.org",
     "slug": "xilef",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "67.94%",
-    "uptimeWeek": "95.42%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "67.62%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 643,
     "timeDay": 273,
     "timeWeek": 956,
     "timeMonth": 643,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2022-06-09": 461
+      "2022-06-09": 466
     }
   },
   {
@@ -122,18 +122,18 @@
     "icon": "https://favicons.githubusercontent.com/www.kirinas.com",
     "slug": "kirinas",
     "status": "down",
-    "uptime": "97.37%",
-    "uptimeDay": "37.73%",
-    "uptimeWeek": "91.10%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.37%",
+    "uptime": "97.33%",
+    "uptimeDay": "36.73%",
+    "uptimeWeek": "90.96%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
     "time": 348,
     "timeDay": 0,
     "timeWeek": 388,
     "timeMonth": 348,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-06-09": 897
+      "2022-06-09": 911
     }
   },
   {
@@ -160,18 +160,18 @@
     "icon": "https://favicons.githubusercontent.com/www.hlx.tw",
     "slug": "hlx-tw",
     "status": "down",
-    "uptime": "97.38%",
-    "uptimeDay": "37.84%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
+    "uptime": "97.34%",
+    "uptimeDay": "36.84%",
+    "uptimeWeek": "90.98%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 961,
     "timeDay": 0,
     "timeWeek": 2948,
     "timeMonth": 961,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2022-06-09": 895
+      "2022-06-09": 910
     }
   },
   {
@@ -263,7 +263,7 @@
     "timeMonth": 791,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2022-06-09": 1419,
+      "2022-06-09": 1434,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
@@ -306,7 +306,7 @@
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2022-06-09": 1419,
+      "2022-06-09": 1434,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
