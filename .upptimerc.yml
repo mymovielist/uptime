@@ -23,13 +23,15 @@ sites:
     url: https://www.orientelectronic.net
   - name: waf.sexy
     url: https://www.waf.sexy
-  - name: test
+  - name: test wildcard
     url: https://wildcard.waf.sexy
   - name: waf hong kong
     url: https://www.xn--i8s3q.xn--j6w193g
   - name: kara
     url: https://www.xn--lckwg.net
   - name: gyx.io
+    url: https://gyx.io
+  - name: test site
     url: https://www.gyx.io
   - name: Google
     url: https://www.google.com
