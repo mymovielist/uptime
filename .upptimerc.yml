@@ -3,7 +3,7 @@ owner: mymovielist # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
-  - name: ripley  
+  - name: ripley
     url: https://ripley.waf.hk
   - name: waf.hk
     url: https://www.waf.hk
