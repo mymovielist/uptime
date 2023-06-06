@@ -39,6 +39,12 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: whatsapp
+    url: https://web.whatsapp.com
+  - name: instagram
+    url: https://instagram.com
+  - name: youtube
+    url: https://www.youtube.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
