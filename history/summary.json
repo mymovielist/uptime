@@ -16,7 +16,8 @@
     "timeMonth": 214,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-06-17": 1413,
+      "2023-06-18": 83,
+      "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -548,7 +549,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kirinas.com.ico",
     "slug": "kirinas",
     "status": "up",
-    "uptime": "94.95%",
+    "uptime": "94.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -596,7 +597,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.99%",
+    "uptimeYear": "95.02%",
     "time": 292,
     "timeDay": 230,
     "timeWeek": 221,
@@ -628,8 +629,7 @@
       "2022-07-01": 25,
       "2022-06-30": 76,
       "2022-06-21": 49,
-      "2022-06-19": 589,
-      "2022-06-18": 1440
+      "2022-06-19": 589
     }
   },
   {
@@ -642,7 +642,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.99%",
+    "uptimeYear": "95.02%",
     "time": 405,
     "timeDay": 231,
     "timeWeek": 280,
@@ -674,8 +674,7 @@
       "2022-07-01": 25,
       "2022-06-30": 76,
       "2022-06-21": 49,
-      "2022-06-19": 589,
-      "2022-06-18": 1440
+      "2022-06-19": 589
     }
   },
   {
@@ -852,11 +851,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lckwg.net.ico",
     "slug": "kara",
     "status": "up",
-    "uptime": "67.29%",
+    "uptime": "67.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.30%",
-    "uptimeYear": "73.14%",
+    "uptimeMonth": "36.55%",
+    "uptimeYear": "73.16%",
     "time": 1218,
     "timeDay": 2812,
     "timeWeek": 1338,
@@ -972,8 +971,7 @@
       "2022-07-01": 25,
       "2022-06-30": 112,
       "2022-06-21": 47,
-      "2022-06-19": 638,
-      "2022-06-18": 1440
+      "2022-06-19": 638
     }
   },
   {
@@ -986,7 +984,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.95%",
+    "uptimeYear": "94.97%",
     "time": 395,
     "timeDay": 479,
     "timeWeek": 1034,
@@ -1023,8 +1021,7 @@
       "2022-07-01": 25,
       "2022-06-30": 112,
       "2022-06-21": 37,
-      "2022-06-19": 596,
-      "2022-06-18": 1440
+      "2022-06-19": 596
     }
   },
   {
@@ -1044,7 +1041,8 @@
     "timeMonth": 110,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-06-17": 1414,
+      "2023-06-18": 84,
+      "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
@@ -1495,18 +1493,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.23%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 600,
     "timeDay": 682,
-    "timeWeek": 592,
+    "timeWeek": 588,
     "timeMonth": 600,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2023-06-17": 41,
+      "2023-06-17": 36,
       "2023-06-09": 79,
       "2023-06-06": 15
     }
