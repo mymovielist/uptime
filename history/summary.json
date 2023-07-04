@@ -16,7 +16,8 @@
     "timeMonth": 231,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-07-03": 1411,
+      "2023-07-04": 83,
+      "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -379,8 +380,7 @@
       "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
-      "2022-07-05": 1440,
-      "2022-07-04": 1440
+      "2022-07-05": 1440
     }
   },
   {
@@ -832,10 +832,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lckwg.net.ico",
     "slug": "kara",
     "status": "up",
-    "uptime": "68.55%",
+    "uptime": "68.56%",
     "uptimeDay": "98.90%",
     "uptimeWeek": "99.43%",
-    "uptimeMonth": "92.01%",
+    "uptimeMonth": "92.26%",
     "uptimeYear": "73.56%",
     "time": 1224,
     "timeDay": 1957,
@@ -1020,7 +1020,8 @@
     "timeMonth": 101,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-07-03": 1411,
+      "2023-07-04": 83,
+      "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
@@ -1383,8 +1384,7 @@
       "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
-      "2022-07-05": 1440,
-      "2022-07-04": 1440
+      "2022-07-05": 1440
     }
   },
   {
@@ -1473,13 +1473,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "97.05%",
+    "uptime": "99.02%",
+    "uptimeDay": "97.34%",
     "uptimeWeek": "97.62%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 612,
-    "timeDay": 596,
+    "timeDay": 614,
     "timeWeek": 633,
     "timeMonth": 612,
     "timeYear": 612,
