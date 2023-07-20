@@ -16,7 +16,7 @@
     "timeMonth": 226,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-07-20": 1222,
+      "2023-07-20": 1243,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -831,9 +831,9 @@
     "url": "https://www.xn--lckwg.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lckwg.net.ico",
     "slug": "kara",
-    "status": "up",
+    "status": "down",
     "uptime": "69.77%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "73.54%",
@@ -843,7 +843,7 @@
     "timeMonth": 1246,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2023-07-20": 17,
+      "2023-07-20": 18,
       "2023-07-19": 5,
       "2023-07-16": 14,
       "2023-07-12": 10,
@@ -1030,7 +1030,7 @@
     "timeMonth": 99,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2023-07-20": 1222,
+      "2023-07-20": 1244,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
