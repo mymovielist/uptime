@@ -16,7 +16,7 @@
     "timeMonth": 259,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-07-28": 1292,
+      "2023-07-28": 1342,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -1031,7 +1031,7 @@
     "timeMonth": 97,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-07-28": 1293,
+      "2023-07-28": 1343,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -1483,19 +1483,19 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.86%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.87%",
     "time": 597,
-    "timeDay": 601,
-    "timeWeek": 577,
+    "timeDay": 595,
+    "timeWeek": 576,
     "timeMonth": 589,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2023-07-28": 66,
+      "2023-07-28": 67,
       "2023-07-27": 6,
       "2023-07-26": 15,
       "2023-07-25": 21,
@@ -1517,7 +1517,7 @@
       "2023-07-08": 10,
       "2023-07-07": 10,
       "2023-07-04": 23,
-      "2023-07-03": 21
+      "2023-07-03": 14
     }
   },
   {
