@@ -558,19 +558,19 @@
     "url": "https://gyx.io",
     "icon": "https://icons.duckduckgo.com/ip3/gyx.io.ico",
     "slug": "test-gyx-io",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 315,
-    "timeDay": 299,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 314,
+    "timeDay": 301,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2023-08-13": 5
+      "2023-08-13": 10
     }
   },
   {
@@ -590,7 +590,7 @@
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2023-08-13": 922,
+      "2023-08-13": 927,
       "2023-08-12": 1412
     }
   },
