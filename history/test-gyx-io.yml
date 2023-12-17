@@ -1,7 +1,7 @@
 url: https://gyx.io
-status: up
-code: 200
-responseTime: 9954
-lastUpdated: 2023-12-17T14:50:24.122Z
+status: down
+code: 503
+responseTime: 182
+lastUpdated: 2023-12-17T15:54:51.954Z
 startTime: 2023-08-12T01:24:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
