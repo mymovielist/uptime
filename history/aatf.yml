@@ -1,7 +1,7 @@
 url: https://www.aatf.us
-status: up
-code: 200
-responseTime: 537
-lastUpdated: 2024-05-12T23:15:22.499Z
+status: down
+code: 503
+responseTime: 154
+lastUpdated: 2024-05-13T07:18:33.571Z
 startTime: 2022-05-17T06:30:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
