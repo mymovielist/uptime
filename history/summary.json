@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "52.46%",
+    "uptime": "52.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -67,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fantastichomeware.us.ico",
     "slug": "fantastic-homeware",
     "status": "up",
-    "uptime": "92.43%",
+    "uptime": "92.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.43%",
+    "uptimeYear": "92.44%",
     "time": 732,
     "timeDay": 0,
     "timeWeek": 0,
@@ -123,7 +123,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 10216,
+    "timeYear": 10187,
     "dailyMinutesDown": {}
   },
   {
@@ -141,7 +141,7 @@
     "timeDay": 0,
     "timeWeek": 394,
     "timeMonth": 394,
-    "timeYear": 3040,
+    "timeYear": 2990,
     "dailyMinutesDown": {}
   },
   {
@@ -159,7 +159,7 @@
     "timeDay": 0,
     "timeWeek": 594,
     "timeMonth": 594,
-    "timeYear": 19512,
+    "timeYear": 19511,
     "dailyMinutesDown": {}
   },
   {
@@ -168,7 +168,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.faw.gg.ico",
     "slug": "faw-gg",
     "status": "down",
-    "uptime": "65.29%",
+    "uptime": "65.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -177,7 +177,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 19570,
+    "timeYear": 19569,
     "dailyMinutesDown": {}
   },
   {
@@ -195,7 +195,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 19492,
+    "timeYear": 19491,
     "dailyMinutesDown": {}
   },
   {
@@ -213,7 +213,7 @@
     "timeDay": 0,
     "timeWeek": 549,
     "timeMonth": 549,
-    "timeYear": 10156,
+    "timeYear": 10127,
     "dailyMinutesDown": {}
   },
   {
@@ -267,7 +267,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 19506,
+    "timeYear": 19505,
     "dailyMinutesDown": {}
   },
   {
@@ -285,7 +285,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 19599,
+    "timeYear": 19598,
     "dailyMinutesDown": {}
   },
   {
@@ -321,7 +321,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -339,7 +339,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 139,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2025-10-14": 18,
       "2025-12-14": 48,
@@ -361,7 +361,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 209,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -400,7 +400,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 305,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   },
   {
@@ -408,16 +408,16 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.17%",
-    "time": 808,
-    "timeDay": 1536,
-    "timeWeek": 1536,
-    "timeMonth": 1536,
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.16%",
+    "time": 807,
+    "timeDay": 1066,
+    "timeWeek": 1066,
+    "timeMonth": 1066,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2025-07-20": 28,
@@ -483,7 +483,7 @@
       "2026-05-05": 5,
       "2026-05-07": 20,
       "2026-06-15": 354,
-      "2026-07-18": 1
+      "2026-07-18": 64
     }
   },
   {
